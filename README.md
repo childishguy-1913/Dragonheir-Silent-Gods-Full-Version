@@ -235,4 +235,4 @@ This repository serves as the official landing page for Dragonheir: Silent Gods.
 **Get the most recent version of Dragonheir: Silent Gods today!**
 
 ---
-**Last updated:** 2026-09-23 14:41:22 UTC
+**Last updated:** 2026-09-23 18:50:57 UTC
